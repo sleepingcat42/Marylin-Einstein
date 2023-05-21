@@ -1,5 +1,5 @@
 # To Distinguish wheather is Marilyn Monroe or Albert Einstein 
-Two model, an ordinary convlution neural networks and a pre-trained VGG net  were train to recognize who she/he really is. 
+Two models, an ordinary convlution neural networks and a pre-trained VGG net  were trained to recognize who she/he really is. 
 ![](fig/MonroeEnstein_AudeOliva2007.jpg)
 ## Result
 Both models tend to believe that the person in the figure is more likely to be Albert Einstein.
